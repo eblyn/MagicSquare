@@ -1,0 +1,13 @@
+N 5
+TwoStade true
+SecondParams param1.simu
+Approach 8
+NB_Cycles 10000
+NB_Trials 20
+P_Mutation 0.00
+P_Crossover 0.0
+EliteSize 0
+PopulationSize 10
+P_Wildcard 0.2
+NB_Classifiers 1
+CoveringTime 2
